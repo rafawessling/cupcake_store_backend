@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+# binários Go
+/api
+bin/
+*.exe
+*.test
+*.out
+
+.DS_Store
